@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="easy.pomodoro" version="1.1.1">
+  <name>Easy Pomodoro</name>
+  <description>
+    Easy Pomodoro Application
+  </description>
+  <author email="sj2009@bk.ru">
+    www.vnezapno.pro
+  </author>
+  <preference name="EnableDeveloperConsole" value="$IS_DEBUG" />
+  <plugin name="cordova-plugin-sqlite-2"/>
+</widget>
+
